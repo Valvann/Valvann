@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Valvan Freitas. 
+I am Núbia Valvan Alves Freitas. 
 
 I mainly study image proccessing and data analysis, both using python. I also study automation, using C sharp.
 
